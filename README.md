@@ -1,4 +1,4 @@
-### Hi there I'm Nuriddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px">
+### Hi there I'm Nuriddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7px" height="7">
 
 I am student and taking courses about Front-end Web Development. <br/>
 <br />
