@@ -7,7 +7,7 @@ I am student and taking courses about Front-end Web Development. <br/>
 
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
-<code><img src="[https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F425%2F902%2Fpng-transparent-sass-style-sheet-language-cascading-style-sheets-logo-sass-purple-violet-text-thumbnail.png&tbnid=duHkaYWDT4hZgM&vet=10CBIQxiAoBmoXChMI0OP06Ojp_wIVAAAAAB0AAAAAEAY..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dsass&docid=y36_dsILtsoByM&w=360&h=188&itg=1&q=https%3A%2F%2Fsass-lang.com%2Fassets%2Fimg%2Fstyleguide%2Fwhite-e44bed0d.png&ved=0CBIQxiAoBmoXChMI0OP06Ojp_wIVAAAAAB0AAAAAEAY)" width="30px"></code>
+<code><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsass-lang.com%2Fassets%2Fimg%2Fstyleguide%2Fseal-black-1e36d095.png&tbnid=wB74JH34e90_HM&vet=12ahUKEwiW0NHo6On_AhVEulYBHRmECbYQMygEegQIARAz..i&imgrefurl=https%3A%2F%2Fsass-lang.com%2Fstyleguide%2Fbrand&docid=MX9TUnSgNEsjxM&w=320&h=320&q=https%3A%2F%2Fsass-lang.com%2Fassets%2Fimg%2Fstyleguide%2Fwhite-e44bed0d.png&ved=2ahUKEwiW0NHo6On_AhVEulYBHRmECbYQMygEegQIARAz" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
